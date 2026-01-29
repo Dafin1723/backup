@@ -1,0 +1,13 @@
+# Ignore semua file ISO (besar-besaran, backup, image OS)
+*.iso
+
+# Kalau mau lebih spesifik (contoh nama file persis atau di folder tertentu)
+cachyos-desktop-linux*.iso
+bookmarks*.iso
+*.iso
+
+# Optional: ignore file besar lain yang biasa muncul
+*.pdf    # kalau banyak PDF besar
+*.pptx
+*.docx
+zufar*.*
