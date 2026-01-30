@@ -11,3 +11,9 @@ bookmarks*.iso
 *.pptx
 *.docx
 zufar*.*
+
+w
+ork/orkspace/
+temp/
+.DS_Store
+Thumbs.db
